@@ -1,0 +1,43 @@
+#wholeShebang {
+  font-family: 'Delius Unicase', cursive;
+  position:absolute;
+  background-size: cover;
+  background-color: #FF0090;
+  min-width: 100%;
+  min-height: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#upperHalf {
+font-size: 20px;
+color: #A502FF;
+display: flex;
+flex-wrap: wrap;
+}
+
+#input {
+  margin-left: 10px;
+  margin-right:10px;
+  margin-top: 18px;
+color: #A502FF;
+height:20px;
+font-family: 'Delius Unicase', cursive;
+}
+
+#button {
+  margin-top: 16px;
+color: #A502FF;
+height:30px;
+font-family: 'Delius Unicase', cursive;
+}
+ img {
+   height:200px;
+   width:200px;
+ }
+
+#lowerHalf {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-bewteen;
+}

@@ -10,8 +10,9 @@ Use recipe puppies API to create an app that allows you to keyword search recipe
 - [x] Create files, link accordingly
 - [x] Set up HTML
 - [x] Add functionality
-- [ ] Styleeeee
+- [x] Styleeeee
 
 ## Challenges
+- Fetching dynamic search query
 
 ## Screenshot
