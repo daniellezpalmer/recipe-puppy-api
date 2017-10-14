@@ -41,3 +41,11 @@ font-family: 'Delius Unicase', cursive;
   flex-wrap: wrap;
   justify-content: space-bewteen;
 }
+
+.container {
+  width: 400px;
+  border: solid;
+  margin:20px;
+  padding:10px;
+  align-content: center;
+}
