@@ -9,7 +9,7 @@ Use recipe puppies API to create an app that allows you to keyword search recipe
 ## TODOS
 - [x] Create files, link accordingly
 - [x] Set up HTML
-- [ ] Add functionality
+- [x] Add functionality
 - [ ] Styleeeee
 
 ## Challenges
